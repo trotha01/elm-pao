@@ -1,5 +1,5 @@
 ## Getting Started
-elm-make HelloWorld.elm --output=index.html --yes
+elm-make PhoneticNumberSystem.elm --output=index.html --yes
 
 ## Dependencies
 [elm](http://elm-lang.org/)
